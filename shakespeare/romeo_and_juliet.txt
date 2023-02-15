@@ -1,0 +1,19 @@
+What's in a name? That which we call a rose.
+By any other name would smell as sweet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         [ Read 0 lines ]
+^G Help      ^O Write Out ^W Where Is  ^K Cut       ^T Execute
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify
